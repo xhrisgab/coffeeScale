@@ -23,10 +23,10 @@
                     </div>
                 </div>
             </div>
-            <a class="carousel-control-prev" href="#blog-carousel" data-slide="prev">
+            <a class="carousel-control-prev" href="#blog-carousel" data-slide="prev" aria-label="prev">
                 <span class="carousel-control-prev-icon"></span>
             </a>
-            <a class="carousel-control-next" href="#blog-carousel" data-slide="next">
+            <a class="carousel-control-next" href="#blog-carousel" data-slide="next" aria-label="next">
                 <span class="carousel-control-next-icon"></span>
             </a>
         </div>
@@ -37,7 +37,7 @@
     <!-- About Start -->
     <div class="container-fluid py-5">
         <div class="container">
-            <div class="section-title">
+            <div class="section-title" id="about1">
                 <h4 class="text-primary text-uppercase" style="letter-spacing: 5px;">About Us</h4>
                 <h1 class="display-4">Serving Since 1950</h1>
             </div>
@@ -50,7 +50,7 @@
                 </div>
                 <div class="col-lg-4 py-5 py-lg-0" style="min-height: 500px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100" src="{{asset('assets/img/about.png')}}" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100" src="{{asset('assets/img/about.png')}}" style="object-fit: cover;" alt="Coffee-cup">
                     </div>
                 </div>
                 <div class="col-lg-4 py-0 py-lg-5">
@@ -70,7 +70,7 @@
     <!-- Service Start -->
     <div class="container-fluid pt-5">
         <div class="container">
-            <div class="section-title">
+            <div class="section-title" id='services2'>
                 <h4 class="text-primary text-uppercase" style="letter-spacing: 5px;">Our Services</h4>
                 <h1 class="display-4">Fresh & Organic Beans</h1>
             </div>

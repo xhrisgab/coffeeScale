@@ -5,6 +5,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    {{-- DATOS META --}}
+
+    {{-- <link rel="apple-touch-icon" sizes="76x76" href="../../assets/img/apple-icon.png"> --}}
+
+    <!-- Metas -->
+        <meta  name="keywords" content="Scale, updivision, html dashboard, laravel, livewire, html css dashboard laravel, livewire soft ui dashboard laravel, laravel soft ui dashboard laravel pro, livewire soft ui dashboard, laravel soft ui dashboard pro, soft ui admin, livewire dashboard, laravel dashboard pro, laravel admin, web dashboard, bootstrap 5 dashboard laravel, bootstrap 5, css3 dashboard, bootstrap 5 admin laravel, soft ui dashboard bootstrap 5 laravel, frontend, responsive bootstrap 5 dashboard, soft ui dashboard, soft ui laravel bootstrap 5 dashboard" />
+        <meta  name="description" content="Fullstack tool for building Laravel apps with hundreds of UI components and ready-made CRUDs" />
+{{--
+        <!-- Google Tag Manager -->
+            <script>
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window,document,'script','dataLayer','GTM-NKDMSK6');
+            </script>
+            <!-- End Google Tag Manager -->
+ --}}
+
+    {{-- END DATOS META --}}
+
     <title>Coffee Scale ☕</title>
 
     <!-- Favicon -->
