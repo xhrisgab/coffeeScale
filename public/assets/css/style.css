@@ -9652,3 +9652,36 @@ h6,
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+/* Fuente para NavBar */
+@font-face {
+    .cormorant-garamond-medium {
+        font-family: "Cormorant Garamond", serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+
+      .cormorant-garamond-semibold {
+        font-family: "Cormorant Garamond", serif;
+        font-weight: 600;
+        font-style: normal;
+      }
+
+      .cormorant-garamond-regular-italic {
+        font-family: "Cormorant Garamond", serif;
+        font-weight: 400;
+        font-style: italic;
+      }
+
+      .cormorant-garamond-medium-italic {
+        font-family: "Cormorant Garamond", serif;
+        font-weight: 500;
+        font-style: italic;
+      }
+
+      .cormorant-garamond-semibold-italic {
+        font-family: "Cormorant Garamond", serif;
+        font-weight: 600;
+        font-style: italic;
+      }
+}
