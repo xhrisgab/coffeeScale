@@ -5,7 +5,7 @@
         <a href="/" class="navbar-brand px-lg-4 m-0">
             <h1 class="m-0 display-4 text-white">
             <img src="{{asset('assets/img/Logo.png')}}" alt="logo" width="50" height="60" class="d-inline-block align-text-top">
-            <font face="cormorant-garamond-medium-italic" >Coffee</font> Scale
+            <font face="cormorant-garamond-medium-italic" >Coffee</font>Scale
             </h1>
         </a>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
